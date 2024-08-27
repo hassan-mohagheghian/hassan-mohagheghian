@@ -6,4 +6,5 @@ I have been working with Python and Javascript and collaborated on multiple proj
 Currently I'm continuing to my journey in software development with Django and FasAPI in Web layer and learning more about data layer. Also, Rust is good.
 
 Feel free for reach me with email and linkedin
+
 Have a nice time!
