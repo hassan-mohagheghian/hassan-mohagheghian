@@ -5,6 +5,8 @@ I went step by step and took good steps in both programming and product developm
 I have been working with Python and Javascript and collaborated on multiple project from tiny to big scales.
 Currently I'm continuing to my journey in software development with Django and FasAPI in Web layer and learning more about data layer. Also, Rust is popular.
 
-Feel free for reach me with email and linkedin
+Feel free for reach me with [email](mohagheghian.hassan.cs@gmail.com
+) and [linkedin]([url](https://www.linkedin.com/in/hassan-mohagheghian/))
 
 Have a nice time!
+
