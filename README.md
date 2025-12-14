@@ -2,10 +2,15 @@
 
 ## Hi there 👋
 
-I'm a software developer with seven years experience, previous full stack and currently back-end developer. 
-I went step by step and took good steps in both programming and product development. In programming, I have gone from a simple function to design and architecture patterns, and in product development, I have collaborated in the development of products in various fields, from the field of IT to the business of selling store products.
-I have been working with Python and Javascript and collaborated on multiple project from tiny to big scales.
-Currently I'm continuing to my journey in software development with Django and FasAPI in Web layer and learning more about data layer. Also, Rust is popular.
+I'm a software engineer with 8+ years of experience, specializing in backend development.  
+Previously worked as a full-stack engineer, I progressed step by step in both **programming** and **product development**:
+
+- In programming: from writing simple functions to designing scalable architectures and applying design patterns.  
+- In product development: collaborated on projects across IT and retail domains, from small to large-scale products.
+
+**Technologies:** Python (Django, FastAPI), JavaScript, PostgreSQL, Docker, Kubernetes.  
+Currently deepening expertise in backend and data layers, exploring Rust, and building scalable web systems.
+
 
 Feel free for reach me with [email](mailto:mohagheghian.hassan.cs@gmail.com
 ) and [linkedin](https://www.linkedin.com/in/hassan-mohagheghian/)
