@@ -12,7 +12,7 @@ Previously worked as a full-stack engineer, I progressed step by step in both **
 Currently deepening expertise in backend and data layers, exploring Rust, and building scalable web systems.
 
 
-Feel free for reach me with [email](mailto:mohagheghian.hassan.cs@gmail.com
+Feel free for reach me with [email](mailto:hassan.mohagheghian.cs@gmail.com
 ) and [linkedin](https://www.linkedin.com/in/hassan-mohagheghian/)
 
 Have a nice time!
