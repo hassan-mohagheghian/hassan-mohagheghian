@@ -15,23 +15,15 @@ I specialize in designing high-performance systems using Python, Rust, and moder
 ---
 
 ### 🧠 Tech Stack
-**Languages:** Python, Rust, C, TypeScript  
+**Languages:** Python, TypeScript, Rust  
 **Backend:** Django, FastAPI, AsyncIO, Axum, Tokio  
-**Infrastructure:** Docker, Kubernetes, AWS, GCP, GitHub Actions  
+**Infrastructure:** Docker, Kubernetes, GitHub Actions  
 **Databases:** PostgreSQL, Redis, RabbitMQ, Kafka  
-**Architecture:** Microservices, DDD, Clean Architecture, TDD, Hexagonal  
-**AI & Tools:** LlamaIndex, AutoGen, WebSockets, AI-assisted systems
+**Architecture:** Microservices, DDD, Clean Code, TDD, Hexagonal  
+**AI & Tools:** LnagGraph, AI-assisted systems
 
 ---
 
-### 💼 Selected Work
-- Built a high-throughput transaction system processing ~10K TPS using Django + PostgreSQL + Redis
-- Designed **WorkGraph**, a multi-tenant SaaS platform with FastAPI, JWT, RBAC, and Next.js
-- Developed **RustWatch**, a distributed telemetry/observability system in Rust
-- Built AI-powered Shopify tools improving merchant revenue and automation workflows
-- Led modernization of legacy systems and reduced technical debt across multiple platforms
-
----
 
 ### 🧩 Experience Highlights
 - Senior Full Stack Engineer (Freelance) — scalable SaaS and distributed systems
