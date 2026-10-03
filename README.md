@@ -2,13 +2,12 @@
 
 I’m a Senior Software Engineer with 9+ years of experience building scalable backend systems, distributed architectures, and SaaS platforms.
 
-I specialize in designing high-performance systems using Python, Rust, and modern cloud-native technologies.
+I specialize in designing backend systems using Python.
 
 ---
 
 ### 🚀 Current Focus
 - High-scale backend systems (Django, FastAPI, Rust)
-- Distributed systems & observability platforms
 - SaaS architecture (multi-tenant, RBAC, microservices)
 - Performance optimization and system design
 
@@ -16,9 +15,9 @@ I specialize in designing high-performance systems using Python, Rust, and moder
 
 ### 🧠 Tech Stack
 **Languages:** Python, TypeScript, Rust  
-**Backend:** Django, FastAPI, AsyncIO, Axum, Tokio  
+**Backend:** Django, FastAPI, AsyncIO
 **Infrastructure:** Docker, Kubernetes, GitHub Actions  
-**Databases:** PostgreSQL, Redis, RabbitMQ, Kafka  
+**Databases:** PostgreSQL, Redis, RabbitMQ  
 **Architecture:** Microservices, DDD, Clean Code, TDD, Hexagonal  
 **AI & Tools:** LnagGraph, AI-assisted systems
 
@@ -26,7 +25,7 @@ I specialize in designing high-performance systems using Python, Rust, and moder
 
 
 ### 🧩 Experience Highlights
-- Senior Full Stack Engineer (Freelance) — scalable SaaS and distributed systems
+- Senior Full Stack Engineer — scalable SaaS and distributed systems
 - Senior Backend Engineer — ERP systems, microservices, and automation platforms
 - Backend Engineer — AI-driven Shopify applications and real-time systems
 - Full Stack Developer — Kubernetes-based SIEM and internal platforms
@@ -36,11 +35,6 @@ I specialize in designing high-performance systems using Python, Rust, and moder
 ### 🎓 Education
 M.Sc. Computer Science (AI)  
 B.Sc. Computer Science
-
----
-
-### 🌍 Languages
-English (B2) • Persian (Native)
 
 ---
 
